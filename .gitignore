@@ -1,0 +1,8 @@
+# Build files and directories
+.vs/
+x64/
+*.exe
+*.o
+
+# User-specific project files
+*.vcxproj.user
